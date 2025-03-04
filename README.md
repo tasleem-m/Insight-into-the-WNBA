@@ -1,12 +1,12 @@
 # Insight into the WNBA
 WNBA is an organization that has been undervalued for a large part of its history. Its sharp increase in mainstream popularity in recent years introduces a question of if the momentum towards the sport will continue to grow or if this is their “15 min of fame” due to specific factors.
 # Table of Contents
-- [Motivation](https://github.com/tasleem-m/Insight-into-the-WNBA/edit/main/README.md#motivation)
-- [Data Questions](https://github.com/tasleem-m/Insight-into-the-WNBA/edit/main/README.md#data-questions)
-- [Technologies](https://github.com/tasleem-m/Insight-into-the-WNBA/edit/main/README.md#technologies)
-- [Data Process](https://github.com/tasleem-m/Insight-into-the-WNBA/edit/main/README.md#data-process)
-- [Data Sources](https://github.com/tasleem-m/Insight-into-the-WNBA/edit/main/README.md#data-sources)
-- [Conclusion](https://github.com/tasleem-m/Insight-into-the-WNBA/edit/main/README.md#conclusion)
+- [Motivation](https://github.com/tasleem-m/Insight-into-the-WNBA#motivation)
+- [Data Questions](https://github.com/tasleem-m/Insight-into-the-WNBA#data-questions)
+- [Technologies](https://github.com/tasleem-m/Insight-into-the-WNBA#technologies)
+- [Data Process](https://github.com/tasleem-m/Insight-into-the-WNBA#data-process)
+- [Data Sources](https://github.com/tasleem-m/Insight-into-the-WNBA#data-sources)
+- [Conclusion](https://github.com/tasleem-m/Insight-into-the-WNBA#conclusion)
 # Motivation
 <details>
 <summary>

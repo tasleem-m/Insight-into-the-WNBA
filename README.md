@@ -48,6 +48,13 @@ Clean
 Specific statistical percentage columns, originally in decimal format, were converted to percentage values for analysis. The 'Year' column was cleaned to extract only the year from the full file name and then converted into an integer format. The data was subsequently exported as CSV files and uploaded to Power BI for dashboard visualization.
 </details>
 
+<details>
+<summary>
+Analyze
+</summary>
+An overview of league performance was analyzed to identify overall trends across the selected metrics. These metrics were then filtered to focus on the top 5 teams, highlighting the most competitive teams during the specified time period (2010-2024). Following this, the performance metrics of these top 5 teams were compared to assess their correlation with playoff history. Additionally, attendance data was analyzed alongside the performance of these competitive teams to determine whether any correlation existed.
+</details>
+
 # Data Sources
 1.	https://www.acrossthetimeline.com/wnba/attendance.html#
     * The attendance data source does not include figures for 2020 due to the impact of COVID-19 and omits home attendance data for the Indiana Fever in 2021.

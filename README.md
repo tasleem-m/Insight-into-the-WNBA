@@ -27,6 +27,9 @@ While there have always been popular WNBA players, such as Sue Bird and Lisa Les
 - What teams are the fans going to see?
 # Technologies
 - Python
+  * [Jupyter Notebooks](https://jupyter.org/)
+  * [Pandas](https://pandas.pydata.org/)
+  * [Seaborn](https://seaborn.pydata.org/)
 - Power BI
 - PowerPoint
 # Data Process
